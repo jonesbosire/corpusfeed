@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"c:/Users/USER PC/Desktop/corpus-feed/corpusfeed/public/images/\")",
+      "Bash(cmd /c \"dir \"\"C:\\\\Users\\\\USER PC\\\\Desktop\\\\corpus-feed\\\\corpusfeed\\\\public\\\\images\"\"\")"
+    ]
+  }
+}
